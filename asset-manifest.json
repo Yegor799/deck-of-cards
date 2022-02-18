@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deck-of-cards/static/css/main.5c115465.css",
+    "main.js": "/deck-of-cards/static/js/main.8b3089b8.js",
+    "index.html": "/deck-of-cards/index.html",
+    "main.5c115465.css.map": "/deck-of-cards/static/css/main.5c115465.css.map",
+    "main.8b3089b8.js.map": "/deck-of-cards/static/js/main.8b3089b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c115465.css",
+    "static/js/main.8b3089b8.js"
+  ]
+}
